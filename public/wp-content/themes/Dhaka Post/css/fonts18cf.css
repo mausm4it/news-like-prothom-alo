@@ -1,0 +1,25 @@
+@font-face{font-family:MartelSans;src:url(../custom-fonts/MartelSans-Regular.ttf)}@font-face{font-family:SolaimanLipi;src:url(../custom-fonts/SolaimanLipi.ttf)}@font-face{font-family:AdorshoLipi;src:url(../custom-fonts/AdorshoLipi_20-07-2007.ttf)}@font-face{font-family:Galada;src:url(../custom-fonts/Galada-Regular.ttf)}@font-face{font-family:HindSiliguri;src:url(../custom-fonts/HindSiliguri-Regular.ttf)}@font-face{font-family:NunitoSans-Bold;src:url(../custom-fonts/NunitoSans-Bold.ttf)}@font-face{font-family:NunitoSans;src:url(../custom-fonts/NunitoSans-Black.ttf)}
+@font-face {
+      font-family: "Shurjo";
+      font-display: swap;
+      font-style: normal;
+      font-weight: 400;
+      src: url(fonts/ShurjoWeb_400-9c895a6dac9f8636b65e.woff2) format('woff2'),
+           url(fonts/Shurjo-Regular_v3001-57e157d3a9f181e68ff7.html) format("truetype");
+}
+@font-face {
+          font-family: "Shurjo";
+          font-display: swap;
+          font-style: normal;
+          font-weight: 600;
+          src: url(fonts/ShurjoWeb_600-4e35c3e8ff27a35d9c64.woff2) format('woff2'), 
+               url(fonts/ShurjoSemiBold-SemiBold_v3001-c082e5b54e5cfbe3c917.html) format("truetype");
+        }
+@font-face {
+          font-family: "Shurjo";
+          font-display: swap;
+          font-weight: 700;
+          font-style: normal;
+          src: url(fonts/ShurjoWeb_700-d599faf458ea810465db.woff2) format('woff2'),
+               url(fonts/Shurjo-Bold_v3001-d5c814bf9f7ffaee21f5.html) format('truetype');
+        }
